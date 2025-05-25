@@ -1,4 +1,4 @@
-# Computer Science Projects
+# Projects
 
 ### Game Development
 
@@ -13,5 +13,3 @@
 ### Java
 
 ### Python
-
-# Art Portfolio
