@@ -10,7 +10,7 @@
 - https://github.com/cbates006/Cat-and-Mouse
 
 ### Application Development
-- https://github.com/cbates006/Weather-App/blob/main/README.md
+- https://github.com/cbates006/Weather-App
 
 ### Java
 - https://github.com/cbates006/Caesar-Cipher
